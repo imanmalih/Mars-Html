@@ -3,7 +3,7 @@ Disclaimer: Assisstance was use from LA's,tutors, google.
 
 ## Mars Webscraping 
 
-## The goal of the project was to:
+## The Goal Of The Project Was To:
     1. Scrape titles and preview text from Mars news articles.
     2. Scrape and analyze Mars weather data, which exists in a table.
 
