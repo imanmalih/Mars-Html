@@ -26,6 +26,9 @@ Disclaimer: Assisstance was use from LA's,tutors, google.
     6. Visualized the results using bar charts and line plots.
     7. Exported the DataFrame to a CSV file.
 
+## Conclusion
+    We were able to successfully scrape, collect, and analyse the data from the websites related to Mars. 
+    We found valuable data about the Martian temperatures, atmospheric pressure, and months/days. 
 
 
 
