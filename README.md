@@ -1,5 +1,5 @@
 # Mars-Html
-Disclaimer: Assisstance was use from LA's,tutors, google.
+Disclaimer: Assisstance and Advice was given from LA's,tutors, web.
 
 ## Mars Webscraping 
 
